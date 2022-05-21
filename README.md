@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jmacha-conservice
 - 👀 I’m interested in exploring cloud
-- 💞️ I’m looking to collaborate with multiple teams for build solutons and maintain reliability
+- 💞️ I’m looking to collaborate with multiple teams for build solutions and maintain reliability
 - 📫 How to reach me using github repos
 
 <!---
